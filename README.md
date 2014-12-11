@@ -1,4 +1,5 @@
 Linux-c
 =======
+there are some libs and examples writen by ducs:smile:;
+----
 
-some libs writen by me, some examples. learn and note
